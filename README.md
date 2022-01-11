@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sofaTrampoline
-- 👀 I’m interested in c++ programming and Java too.
+- 👀 I’m interested in c++ programming and Java .
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
